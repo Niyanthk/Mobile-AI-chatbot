@@ -22,11 +22,6 @@
 
 <img src="https://user-images.githubusercontent.com/20399094/230069705-def1e179-5dc5-4245-bbe0-10501ff0bb61.png" height="600" width="300" hspace="40"><img src="https://user-images.githubusercontent.com/20399094/230069709-66298716-088f-4813-a9b9-bbd422f83e7d.png" height="600" width="300" hspace="40">
 
-
-## Prerequisites 📝
-- IntelliJ IDEA (any edition) or Android Studio(IDE) to run this project
-- OpenAI API Key (visit https://platform.openai.com/account/api-keys)
-
 ## Built With 🛠
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
 - [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) - For asynchronous and more..
