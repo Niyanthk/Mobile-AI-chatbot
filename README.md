@@ -44,10 +44,6 @@ AnywhereGPT is the ultimate mobile app with seamless AI assistance at your finge
 
 <img src="https://user-images.githubusercontent.com/20399094/230069705-def1e179-5dc5-4245-bbe0-10501ff0bb61.png" height="600" width="300" hspace="40"><img src="https://user-images.githubusercontent.com/20399094/230069709-66298716-088f-4813-a9b9-bbd422f83e7d.png" height="600" width="300" hspace="40">
 
-## App Demo
-
-https://user-images.githubusercontent.com/20399094/230054885-193ad233-29bc-4c28-a3c5-78b06ddd6424.mp4
-
 
 ## Prerequisites 📝
 - IntelliJ IDEA (any edition) or Android Studio(IDE) to run this project
